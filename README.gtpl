@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adamNewell/adamNewell/adamNewell-485px-github.png" />
+    <img src="https://raw.githubusercontent.com/adamNewell/adamNewell/main/adamNewell-485px-github.png" />
 </p>
 
 ### Socials

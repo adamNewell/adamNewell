@@ -39,6 +39,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
           plugin_leetcode: yes
+          plugin_leetcode_user: adamNewell
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_recent: 3
           plugin_leetcode_ignored_skills: fundamental

@@ -52,6 +52,7 @@
 - [adamNewell/dev_conf](https://github.com/adamNewell/dev_conf) - 
 ### 🔨 My recent Pull Requests
 
+- [Overhaul](https://github.com/adamNewell/dotfiles/pull/1) on [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles)
 - [Embassy RP: RP235x Fix MPU region enablement in stack guard installation](https://github.com/embassy-rs/embassy/pull/4296) on [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
 ### ⭐ Recent Stars
 

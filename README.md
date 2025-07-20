@@ -56,8 +56,8 @@
 - [Embassy RP: RP235x Fix MPU region enablement in stack guard installation](https://github.com/embassy-rs/embassy/pull/4296) on [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
 ### ⭐ Recent Stars
 
+- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it&#39;s the way to actually make AI coding assistants work. Claude Code is the best for this so that&#39;s what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 - [we-are-mono/keyboard](https://github.com/we-are-mono/keyboard) - Source files for Mono Keyboard
 - [Makerr-Studio/CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!

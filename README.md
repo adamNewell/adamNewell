@@ -42,6 +42,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [adamNewell/astro-hyperscript](https://github.com/adamNewell/astro-hyperscript) - 
 - [adamNewell/devcontainer-features](https://github.com/adamNewell/devcontainer-features) - 
 ### 🌱 My latest projects

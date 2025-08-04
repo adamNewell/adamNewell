@@ -57,8 +57,8 @@
 - [Embassy RP: RP235x Fix MPU region enablement in stack guard installation](https://github.com/embassy-rs/embassy/pull/4296) on [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
 ### ⭐ Recent Stars
 
+- [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) - Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension
 - [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
 - [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it&#39;s the way to actually make AI coding assistants work. Claude Code is the best for this so that&#39;s what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 - [we-are-mono/keyboard](https://github.com/we-are-mono/keyboard) - Source files for Mono Keyboard
-- [Makerr-Studio/CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing

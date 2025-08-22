@@ -57,8 +57,8 @@
 - [Embassy RP: RP235x Fix MPU region enablement in stack guard installation](https://github.com/embassy-rs/embassy/pull/4296) on [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
 ### ⭐ Recent Stars
 
+- [bitluni/magnetMatrix6x6](https://github.com/bitluni/magnetMatrix6x6) - 
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) - Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension
 - [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it&#39;s the way to actually make AI coding assistants work. Claude Code is the best for this so that&#39;s what this repo is centered around, but you can apply this strategy with any AI coding assistant!

@@ -41,12 +41,14 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [adamNewell/astro-hyperscript](https://github.com/adamNewell/astro-hyperscript) - 
 - [adamNewell/devcontainer-features](https://github.com/adamNewell/devcontainer-features) - 
 ### 🌱 My latest projects
 
+- [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
 - [adamNewell/astro-hyperscript](https://github.com/adamNewell/astro-hyperscript) - 
 - [adamNewell/devcontainer-features](https://github.com/adamNewell/devcontainer-features) - 
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 

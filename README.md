@@ -53,7 +53,6 @@
 - [adamNewell/dev_conf](https://github.com/adamNewell/dev_conf) - 
 ### 🔨 My recent Pull Requests
 
-- [Overhaul](https://github.com/adamNewell/dotfiles/pull/1) on [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles)
 ### ⭐ Recent Stars
 
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams

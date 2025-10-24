@@ -53,6 +53,7 @@
 - [adamNewell/dev_conf](https://github.com/adamNewell/dev_conf) - 
 ### 🔨 My recent Pull Requests
 
+- [feat: add cm5 support by updating underlying layer](https://github.com/mendersoftware/meta-mender-community/pull/483) on [mendersoftware/meta-mender-community](https://github.com/mendersoftware/meta-mender-community)
 ### ⭐ Recent Stars
 
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams

@@ -56,8 +56,8 @@
 - [feat: add cm5 support by updating underlying layer](https://github.com/mendersoftware/meta-mender-community/pull/483) on [mendersoftware/meta-mender-community](https://github.com/mendersoftware/meta-mender-community)
 ### ⭐ Recent Stars
 
+- [IRMP-org/IRMP](https://github.com/IRMP-org/IRMP) - Infrared Multi Protocol Decoder
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 - [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os) - Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust
 - [bitluni/magnetMatrix6x6](https://github.com/bitluni/magnetMatrix6x6) - 
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
-- [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) - Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension

@@ -53,11 +53,12 @@
 - [adamNewell/dev_conf](https://github.com/adamNewell/dev_conf) - 
 ### 🔨 My recent Pull Requests
 
+- [feat(registry): implement multi-instance support with isolated registry](https://github.com/chunkhound/chunkhound/pull/94) on [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound)
 - [feat: add cm5 support by updating underlying layer](https://github.com/mendersoftware/meta-mender-community/pull/483) on [mendersoftware/meta-mender-community](https://github.com/mendersoftware/meta-mender-community)
 ### ⭐ Recent Stars
 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Deep Research for Code &amp; Files
 - [kosty-cloud/kosty](https://github.com/kosty-cloud/kosty) - 🚀 Identify AWS cost waste and security vulnerabilities across 16 core services with a single command
 - [IRMP-org/IRMP](https://github.com/IRMP-org/IRMP) - Infrared Multi Protocol Decoder
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
-- [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os) - Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust

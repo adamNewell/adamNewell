@@ -57,8 +57,8 @@
 - [feat: add cm5 support by updating underlying layer](https://github.com/mendersoftware/meta-mender-community/pull/483) on [mendersoftware/meta-mender-community](https://github.com/mendersoftware/meta-mender-community)
 ### ⭐ Recent Stars
 
+- [EPFLXplore/XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research&#39;s robot dog project
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Deep Research for Code &amp; Files
+- [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Don&#39;t search your code. Research it.
 - [kosty-cloud/kosty](https://github.com/kosty-cloud/kosty) - 🚀 Identify AWS cost waste and security vulnerabilities across 16 core services with a single command
 - [IRMP-org/IRMP](https://github.com/IRMP-org/IRMP) - Infrared Multi Protocol Decoder
-- [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams

@@ -57,7 +57,7 @@
 - [feat: add cm5 support by updating underlying layer](https://github.com/mendersoftware/meta-mender-community/pull/483) on [mendersoftware/meta-mender-community](https://github.com/mendersoftware/meta-mender-community)
 ### ⭐ Recent Stars
 
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [EPFLXplore/XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research&#39;s robot dog project
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Don&#39;t search your code. Research it.

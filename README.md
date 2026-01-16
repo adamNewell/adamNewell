@@ -54,11 +54,10 @@
 ### 🔨 My recent Pull Requests
 
 - [feat(registry): implement multi-instance support with isolated registry](https://github.com/chunkhound/chunkhound/pull/94) on [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound)
-- [feat: add cm5 support by updating underlying layer](https://github.com/mendersoftware/meta-mender-community/pull/483) on [mendersoftware/meta-mender-community](https://github.com/mendersoftware/meta-mender-community)
 ### ⭐ Recent Stars
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Professional Development Environment for Claude Code with Endless Mode, Spec-Driven Development, TDD, LSP, Persistent Memory, Semantic Search, Quality Hooks and Modular Rules 🛠️
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections

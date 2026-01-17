@@ -41,6 +41,7 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
 - [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.

@@ -41,18 +41,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 - [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 - [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
-- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 ### 🌱 My latest projects
 
+- [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 - [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 - [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
 - [adamNewell/astro-hyperscript](https://github.com/adamNewell/astro-hyperscript) - 
-- [adamNewell/devcontainer-features](https://github.com/adamNewell/devcontainer-features) - 
 ### 🔨 My recent Pull Requests
 
 - [feat(registry): implement multi-instance support with isolated registry](https://github.com/chunkhound/chunkhound/pull/94) on [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound)

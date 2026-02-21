@@ -41,18 +41,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 - [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
-- [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
 ### 🌱 My latest projects
 
+- [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 - [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 - [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
-- [adamNewell/astro-hyperscript](https://github.com/adamNewell/astro-hyperscript) - 
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars

@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [originalankur/GenerateAgents.md](https://github.com/originalankur/GenerateAgents.md) - Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation.
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill &#43; prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-- [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.

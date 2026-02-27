@@ -55,10 +55,11 @@
 - [adamNewell/cargo-status](https://github.com/adamNewell/cargo-status) - A powerful, configurable cargo subcommand that runs multiple Rust development tools in parallel and provides a unified status report with detailed metrics.
 ### 🔨 My recent Pull Requests
 
+- [fix: use temp script when tmux command exceeds safe length](https://github.com/jayminwest/overstory/pull/46) on [jayminwest/overstory](https://github.com/jayminwest/overstory)
 ### ⭐ Recent Stars
 
 - [originalankur/GenerateAgents.md](https://github.com/originalankur/GenerateAgents.md) - Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation.
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill &#43; prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀

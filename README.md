@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 16 languages via tree-sitter.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100&#43; agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows — with direct CLI integration, GitHub sync, and real-time monitoring.
-- [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context&#43; is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context&#43; turns a massive codebase into a searchable, hierarchical feature graph.

@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI &#43; RAG
 - [second-state/fintool](https://github.com/second-state/fintool) - A suite of Rust CLI tools for agentic trading and market intelligence. Each exchange has its own dedicated binary — hyperliquid, binance, coinbase, okx, polymarket — plus a shared fintool for exchange-agnostic market intelligence (quotes, news, SEC filings). Supports crypto, stocks, commodities, and prediction markets. 
 - [miolini/autoresearch-macos](https://github.com/miolini/autoresearch-macos) - AI agents running research on single-GPU nanochat training automatically adopted for MacOS
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
-- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.

@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
+- [chrisvoncsefalvay/autostar](https://github.com/chrisvoncsefalvay/autostar) - Autoresearch ALL THE THINGS. RLVR for the masses. 
+- [ind-igo/cx](https://github.com/ind-igo/cx) - Semantic code navigation for AI agents
 - [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app required. Designed as a memory system for AI agents using progressive disclosure.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [esaradev/icarus-daedalus](https://github.com/esaradev/icarus-daedalus) - Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall.
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
-- [Michaelliv/markit](https://github.com/Michaelliv/markit) - 🖍️ Convert anything to markdown. Mark it.

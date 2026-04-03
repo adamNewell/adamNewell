@@ -60,5 +60,5 @@
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
 - [chrisvoncsefalvay/autostar](https://github.com/chrisvoncsefalvay/autostar) - Autoresearch ALL THE THINGS. RLVR for the masses. 
 - [ind-igo/cx](https://github.com/ind-igo/cx) - Semantic code navigation for AI agents
-- [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app required. Designed as a memory system for AI agents using progressive disclosure.
+- [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.

@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34;
+- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - &#34;RAG-Anything: All-in-One RAG Framework&#34;
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
-- [chrisvoncsefalvay/autostar](https://github.com/chrisvoncsefalvay/autostar) - Autoresearch ALL THE THINGS. RLVR for the masses. 
-- [ind-igo/cx](https://github.com/ind-igo/cx) - Semantic code navigation for AI agents
-- [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.

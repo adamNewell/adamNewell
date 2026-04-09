@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [rallekralle11/Dact-pico](https://github.com/rallekralle11/Dact-pico) - Pin-compatible with the pi pico but with many protective features.
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34;
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - &#34;RAG-Anything: All-in-One RAG Framework&#34;
-- [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations

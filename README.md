@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [Trampoline-AI/predict-rlm](https://github.com/Trampoline-AI/predict-rlm) - Production focused port of RLMs that allows the LM to call its sub-lm with DSPy signatures. Define your inputs, outputs, and tools — the model handles its own control flow. Get fully interpretable trajectories and performance that scales directly with model improvements. Without context rot.
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
 - [rallekralle11/Dact-pico](https://github.com/rallekralle11/Dact-pico) - Pin-compatible with the pi pico but with many protective features.
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34;
-- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - &#34;RAG-Anything: All-in-One RAG Framework&#34;

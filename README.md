@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [Protocentral/healthypi-move-hw](https://github.com/Protocentral/healthypi-move-hw) - Hardware files for the HealthyPi Move 
 - [archlinter/archlint](https://github.com/archlinter/archlint) - Fast architecture smell detector for TypeScript/JavaScript
 - [millionco/claude-doctor](https://github.com/millionco/claude-doctor) - Diagnose your Claude Code sessions
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [arlington-labs/gitstyle](https://github.com/arlington-labs/gitstyle) - Generate a personal engineering style wiki from your GitHub commit history
-- [Trampoline-AI/predict-rlm](https://github.com/Trampoline-AI/predict-rlm) - Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures. Define your inputs, outputs, and tools — the model handles its own control flow. Get fully interpretable trajectories and performance that scales directly with model improvements. Without context rot.

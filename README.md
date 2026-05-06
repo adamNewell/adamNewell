@@ -41,20 +41,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [adamNewell/eleckit-explorer](https://github.com/adamNewell/eleckit-explorer) - Cross-platform Dioxus desktop binary for Eleckit
-- [adamNewell/eleckit-uikit](https://github.com/adamNewell/eleckit-uikit) - Dioxus UI components for Eleckit human projection
+- [adamNewell/eleckit](https://github.com/adamNewell/eleckit) - MIT kernel for agent-first electronics calculations, constraints, DRC, and web/WASM surfaces
 - [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
+- [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 ### 🌱 My latest projects
 
-- [adamNewell/eleckit-explorer](https://github.com/adamNewell/eleckit-explorer) - Cross-platform Dioxus desktop binary for Eleckit
-- [adamNewell/eleckit-uikit](https://github.com/adamNewell/eleckit-uikit) - Dioxus UI components for Eleckit human projection
+- [adamNewell/eleckit](https://github.com/adamNewell/eleckit) - MIT kernel for agent-first electronics calculations, constraints, DRC, and web/WASM surfaces
 - [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
+- [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 ### 🔨 My recent Pull Requests
 
+- [feat: register eleckit schema for *.eleckit.json files](https://github.com/SchemaStore/schemastore/pull/5651) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 ### ⭐ Recent Stars
 
 - [shoryasethia/markdrop](https://github.com/shoryasethia/markdrop) - A Python package for converting PDFs to markdown while extracting images and tables, generate descriptive text descriptions for extracted tables/images using several LLM clients. And many more functionalities. Markdrop is available on PyPI.

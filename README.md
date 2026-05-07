@@ -41,25 +41,24 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [adamNewell/eleckit](https://github.com/adamNewell/eleckit) - MIT kernel for agent-first electronics calculations, constraints, DRC, and web/WASM surfaces
+- [adamNewell/loadout](https://github.com/adamNewell/loadout) - Native macOS menu bar manager for agent skills and MCP servers
 - [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 ### 🌱 My latest projects
 
-- [adamNewell/eleckit](https://github.com/adamNewell/eleckit) - MIT kernel for agent-first electronics calculations, constraints, DRC, and web/WASM surfaces
+- [adamNewell/loadout](https://github.com/adamNewell/loadout) - Native macOS menu bar manager for agent skills and MCP servers
 - [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 - [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 ### 🔨 My recent Pull Requests
 
-- [feat: register eleckit schema for *.eleckit.json files](https://github.com/SchemaStore/schemastore/pull/5651) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 ### ⭐ Recent Stars
 
+- [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [shoryasethia/markdrop](https://github.com/shoryasethia/markdrop) - A Python package for converting PDFs to markdown while extracting images and tables, generate descriptive text descriptions for extracted tables/images using several LLM clients. And many more functionalities. Markdrop is available on PyPI.
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [lambda-calculus-LLM/lambda-RLM](https://github.com/lambda-calculus-LLM/lambda-RLM) - Method for Long Context RLMs using verifiable Lambda Calculus 
 - [Protocentral/healthypi-move-hw](https://github.com/Protocentral/healthypi-move-hw) - Hardware files for the HealthyPi Move 
-- [archlinter/archlint](https://github.com/archlinter/archlint) - Fast architecture smell detector for TypeScript/JavaScript

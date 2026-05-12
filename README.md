@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
+- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a library that lets you design electronic circuits using Python.
+- [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts.
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [shoryasethia/markdrop](https://github.com/shoryasethia/markdrop) - A Python package for converting PDFs to markdown while extracting images and tables, generate descriptive text descriptions for extracted tables/images using several LLM clients. And many more functionalities. Markdrop is available on PyPI.
-- [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
-- [lambda-calculus-LLM/lambda-RLM](https://github.com/lambda-calculus-LLM/lambda-RLM) - Method for Long Context RLMs using verifiable Lambda Calculus 
-- [Protocentral/healthypi-move-hw](https://github.com/Protocentral/healthypi-move-hw) - Hardware files for the HealthyPi Move 

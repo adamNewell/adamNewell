@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [ReflexioAI/claude-smart](https://github.com/ReflexioAI/claude-smart) - A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them (also support codex now)
 - [wavenumber-eng/altium_monkey](https://github.com/wavenumber-eng/altium_monkey) - altium-monkey is a Python toolkit for reading, writing, analyzing, and rendering Altium files directly from automation.
 - [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a library that lets you design electronic circuits using Python.
 - [Shaurya-Sethi/circuitron](https://github.com/Shaurya-Sethi/circuitron) - Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts.
-- [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding

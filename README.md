@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.
 - [quarqlabs/agent-oss](https://github.com/quarqlabs/agent-oss) - A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.
 - [ReflexioAI/claude-smart](https://github.com/ReflexioAI/claude-smart) - A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them (also support codex now)
 - [wavenumber-eng/altium_monkey](https://github.com/wavenumber-eng/altium_monkey) - altium-monkey is a Python toolkit for reading, writing, analyzing, and rendering Altium files directly from automation.
 - [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
-- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a library that lets you design electronic circuits using Python.

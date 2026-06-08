@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs.
 - [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.
 - [quarqlabs/agent-oss](https://github.com/quarqlabs/agent-oss) - A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.
 - [ReflexioAI/claude-smart](https://github.com/ReflexioAI/claude-smart) - A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them (also support codex now)
-- [wavenumber-eng/altium_monkey](https://github.com/wavenumber-eng/altium_monkey) - altium-monkey is a Python toolkit for reading, writing, analyzing, and rendering Altium files directly from automation.

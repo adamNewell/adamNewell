@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [revfactory/harness-100](https://github.com/revfactory/harness-100) - 
 - [evo-hq/evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
 - [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs.
-- [ai-hpc/ai-hardware-engineer-roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) - Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.

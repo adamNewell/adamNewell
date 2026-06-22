@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) - A feature rich implementation of Recursive Language Models, with advanced visualization and logging tools.
+- [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) - A feature rich implementation of Recursive Language Models, with ACP integration, REPL tool support, structured IO, advanced visualization, logging tools.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [datalab-to/lift](https://github.com/datalab-to/lift) - Extract structured data from documents quickly and accurately.
 - [kiyeonjeon21/reframe](https://github.com/kiyeonjeon21/reframe) - Declarative motion graphics AI can write, humans can tweak — edits survive AI regeneration. Deterministic mp4 from plain-data scenes. npm: reframe-video

@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) - A feature rich implementation of Recursive Language Models, with ACP integration, REPL tool support, structured IO, advanced visualization, logging tools.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [datalab-to/lift](https://github.com/datalab-to/lift) - Extract structured data from documents quickly and accurately.
 - [kiyeonjeon21/reframe](https://github.com/kiyeonjeon21/reframe) - Declarative motion graphics AI can write, humans can tweak — edits survive AI regeneration. Deterministic mp4 from plain-data scenes. npm: reframe-video
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.

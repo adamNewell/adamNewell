@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills &amp; agent skills &amp; plugins (30&#43; Agents, 70&#43; custom commands, 330&#43; skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.
 - [dzhng/skills](https://github.com/dzhng/skills) - 
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Fable 5 token usage by rendering text context as images
 - [jasonkneen/cascade](https://github.com/jasonkneen/cascade) - 
-- [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents

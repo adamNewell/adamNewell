@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills &amp; agent skills &amp; plugins (30&#43; Agents, 70&#43; custom commands, 330&#43; skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.
 - [dzhng/skills](https://github.com/dzhng/skills) - 

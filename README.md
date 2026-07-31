@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun&#39;s KiCad Libraries
+- [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills &amp; agent skills &amp; plugins (30&#43; Agents, 70&#43; custom commands, 330&#43; skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.
-- [dzhng/skills](https://github.com/dzhng/skills) - 
-- [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure

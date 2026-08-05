@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹 
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
+- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [santiagomoneta/3DPrintAdvisor](https://github.com/santiagomoneta/3DPrintAdvisor) - simple skills for those with modded printers and klipper.. get the maximun
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
-- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun&#39;s KiCad Libraries
-- [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.

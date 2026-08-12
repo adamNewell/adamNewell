@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
+- [luchasarie/bro-skill](https://github.com/luchasarie/bro-skill) - 🤙 /bro — re-explains the last answer in plain language, for when the reply made you go &#39;bro what&#39;. One-file skill for Hermes, Claude Code, Codex, and opencode.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop.
 - [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) - MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute
-- [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹 
-- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins

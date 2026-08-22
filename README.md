@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico/pico2 (rp2040/rp2350) as a logic analyzer and oscilloscope with sigrok
 - [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
 - [luchasarie/bro-skill](https://github.com/luchasarie/bro-skill) - 🤙 /bro — re-explains the last answer in plain language, for when the reply made you go &#39;bro what&#39;. One-file skill for Hermes, Claude Code, Codex, and opencode.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop.

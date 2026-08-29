@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [New-Seagull-Work-Inc/klayout-macos-release](https://github.com/New-Seagull-Work-Inc/klayout-macos-release) - Prebuilt klayout &#43; kplace executables for macOS on Apple Silicon — binary distribution only, no source
+- [schlarpc/re-shell](https://github.com/schlarpc/re-shell) - Nix-powered agentic reverse engineering environment 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico/pico2 (rp2040/rp2350) as a logic analyzer and oscilloscope with sigrok
-- [yaqwsx/jlcparts](https://github.com/yaqwsx/jlcparts) - Better parametric search for components available for JLC PCB assembly
-- [luchasarie/bro-skill](https://github.com/luchasarie/bro-skill) - 🤙 /bro — re-explains the last answer in plain language, for when the reply made you go &#39;bro what&#39;. One-file skill for Hermes, Claude Code, Codex, and opencode.

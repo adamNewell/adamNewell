@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
-- [i2cjak/T3CAD](https://github.com/i2cjak/T3CAD) - An agent-driven electronics workspace with KiCad PCB, schematic, Gerber, 3D, library, and electromagnetic analysis views.
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C&#43;&#43;23 CLI &#43; MCP server giving coding agents a ranked, deterministic map of any repo, blast radius, tests-to-run and quality deltas. Signatures at 80% fewer bytes than bodies; ~5% of a grep-and-read pass&#39;s tokens.
+- [i2cjak/Backplane](https://github.com/i2cjak/Backplane) - T3CAD is now Backplane | An agent-driven electronics workspace with KiCad PCB, schematic, GERBER, 3D library, and emag analysis views.
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C&#43;&#43;23 CLI &#43; MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 - [American-Embedded/kistack](https://github.com/American-Embedded/kistack) - KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more. 

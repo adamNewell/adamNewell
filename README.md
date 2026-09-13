@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
 - [i2cjak/Backplane](https://github.com/i2cjak/Backplane) - T3CAD is now Backplane | An agent-driven electronics workspace with KiCad PCB, schematic, GERBER, 3D library, and emag analysis views.
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C&#43;&#43;23 CLI &#43; MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 - [American-Embedded/kistack](https://github.com/American-Embedded/kistack) - KiStack is a HUMAN WRITTEN bunch of skills for KiCad
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more. 

@@ -41,18 +41,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [adamNewell/claude-mod-images](https://github.com/adamNewell/claude-mod-images) - A Claude Mod that draws pictures in the Claude Code terminal: Read results, MCP tool images and pasted images, over the kitty graphics protocol.
 - [adamNewell/loadout](https://github.com/adamNewell/loadout) - Native macOS menu bar manager for agent skills and MCP servers
 - [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/dotfiles](https://github.com/adamNewell/dotfiles) - 
-- [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 ### 🌱 My latest projects
 
+- [adamNewell/claude-mod-images](https://github.com/adamNewell/claude-mod-images) - A Claude Mod that draws pictures in the Claude Code terminal: Read results, MCP tool images and pasted images, over the kitty graphics protocol.
 - [adamNewell/loadout](https://github.com/adamNewell/loadout) - Native macOS menu bar manager for agent skills and MCP servers
 - [adamNewell/claude-cloud-architect](https://github.com/adamNewell/claude-cloud-architect) - Extract and map existing software architecture as structured, queryable component graphs
 - [adamNewell/aws-waf-best-practices](https://github.com/adamNewell/aws-waf-best-practices) - AWS Well-Architected Framework Review and Best Practices Audit
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
-- [adamNewell/adamdouglasnewell.com](https://github.com/adamNewell/adamdouglasnewell.com) - 
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars

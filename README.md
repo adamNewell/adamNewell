@@ -55,6 +55,7 @@
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 ### 🔨 My recent Pull Requests
 
+- [perf: reduce history restore and UI work; bound socket stalls](https://github.com/adamNewell/Backplane/pull/1) on [adamNewell/Backplane](https://github.com/adamNewell/Backplane)
 - [fix: add existing projects on macOS](https://github.com/i2cjak/Backplane/pull/30) on [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
 ### ⭐ Recent Stars
 

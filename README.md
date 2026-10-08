@@ -59,8 +59,8 @@
 - [fix: add existing projects on macOS](https://github.com/i2cjak/Backplane/pull/30) on [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
 ### ⭐ Recent Stars
 
+- [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of &#34;C&#34;ognitive &#34;C&#34;omplexity and &#34;C&#34;yclomatic &#34;C&#34;omplexity
 - [parisxmas/fastroute](https://github.com/parisxmas/fastroute) - Fast open-source PCB autorouter for KiCad and Specctra DSN — a Rust port of Freerouting with bug fixes, length matching, controlled impedance and differential pairs
 - [ZacharyZhang-NY/Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components) - A component library for GPUI, in light and dark. Every component runs live in the browser.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
-- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.

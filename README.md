@@ -59,8 +59,8 @@
 - [fix: add existing projects on macOS](https://github.com/i2cjak/Backplane/pull/30) on [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
 ### ⭐ Recent Stars
 
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [nessalabs/nessa-docs](https://github.com/nessalabs/nessa-docs) - Repository Markdown, readable system diagrams, and a local Nessa Docs browser.
 - [miuuyy/Astra-Ares](https://github.com/miuuyy/Astra-Ares) - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of &#34;C&#34;ognitive &#34;C&#34;omplexity and &#34;C&#34;yclomatic &#34;C&#34;omplexity
-- [parisxmas/fastroute](https://github.com/parisxmas/fastroute) - Fast open-source PCB autorouter for KiCad and Specctra DSN — a Rust port of Freerouting with bug fixes, length matching, controlled impedance and differential pairs

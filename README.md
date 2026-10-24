@@ -59,8 +59,8 @@
 - [fix: add existing projects on macOS](https://github.com/i2cjak/Backplane/pull/30) on [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
 ### ⭐ Recent Stars
 
+- [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) - QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.
+- [devagrawal09/ocpp](https://github.com/devagrawal09/ocpp) - An open source coding agent whose only tool is a durable code REPL, with tools and recursive subagents called from code. Forked from OpenCode.
+- [HazAT/ultimate](https://github.com/HazAT/ultimate) - A local coding agent with a web UI that builds itself while it runs, on Pi Durable
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [nessalabs/nessa-docs](https://github.com/nessalabs/nessa-docs) - Repository Markdown, readable system diagrams, and a local Nessa Docs browser.
-- [miuuyy/Astra-Ares](https://github.com/miuuyy/Astra-Ares) - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
-- [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of &#34;C&#34;ognitive &#34;C&#34;omplexity and &#34;C&#34;yclomatic &#34;C&#34;omplexity

@@ -59,8 +59,8 @@
 - [fix: add existing projects on macOS](https://github.com/i2cjak/Backplane/pull/30) on [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
 ### ⭐ Recent Stars
 
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents
 - [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) - QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.
 - [devagrawal09/ocpp](https://github.com/devagrawal09/ocpp) - An open source coding agent whose only tool is a durable code REPL, with tools and recursive subagents called from code. Forked from OpenCode.
 - [HazAT/ultimate](https://github.com/HazAT/ultimate) - A local coding agent with a web UI that builds itself while it runs, on Pi Durable
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
-- [nessalabs/nessa-docs](https://github.com/nessalabs/nessa-docs) - Repository Markdown, readable system diagrams, and a local Nessa Docs browser.

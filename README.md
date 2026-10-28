@@ -59,7 +59,7 @@
 - [fix: add existing projects on macOS](https://github.com/BackplaneWorks/Backplane/pull/30) on [BackplaneWorks/Backplane](https://github.com/BackplaneWorks/Backplane)
 ### ⭐ Recent Stars
 
-- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) - QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.
 - [devagrawal09/ocpp](https://github.com/devagrawal09/ocpp) - An open source coding agent whose only tool is a durable code REPL, with tools and recursive subagents called from code. Forked from OpenCode.
 - [HazAT/ultimate](https://github.com/HazAT/ultimate) - A local coding agent with a web UI that builds itself while it runs, on Pi Durable

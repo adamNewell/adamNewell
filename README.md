@@ -55,8 +55,6 @@
 - [adamNewell/mergerfs-rebalance](https://github.com/adamNewell/mergerfs-rebalance) - 
 ### 🔨 My recent Pull Requests
 
-- [perf: reduce history restore and UI work; bound socket stalls](https://github.com/adamNewell/Backplane/pull/1) on [adamNewell/Backplane](https://github.com/adamNewell/Backplane)
-- [fix: add existing projects on macOS](https://github.com/BackplaneWorks/Backplane/pull/30) on [BackplaneWorks/Backplane](https://github.com/BackplaneWorks/Backplane)
 ### ⭐ Recent Stars
 
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput

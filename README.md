@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [iammrduncan/thermite](https://github.com/iammrduncan/thermite) - Auto researching harness that burns through everything.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - [ebetica/recurse](https://github.com/ebetica/recurse) - Recurse: a fully local agentic harness built on top of Pi Durable.
 - [muellerberndt/cadence](https://github.com/muellerberndt/cadence) - A brain that learns from live experience. System 1 by default: perception, memory, plasticity and action. Optional System 2 for self-observation and slow corrections.
 - [osolmaz/switch](https://github.com/osolmaz/switch) - A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the model picks one at a time until it can answer.
-- [madxmike/gallant](https://github.com/madxmike/gallant) - Gallant is a customizable linter built to utilize Decision Models (i.e. Jev, Clef, and other system one models) to lint your code, documents, and any other text-based files.
-- [DamascenoRafael/mqtt-simulator](https://github.com/DamascenoRafael/mqtt-simulator) - A lightweight, easy-to-configure MQTT simulator written in Python 3 for publishing JSON objects to a broker, simulating sensors and devices.

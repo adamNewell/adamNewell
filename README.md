@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+- [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 - [iammrduncan/thermite](https://github.com/iammrduncan/thermite) - Auto researching harness that burns through everything.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - [ebetica/recurse](https://github.com/ebetica/recurse) - Recurse: a fully local agentic harness built on top of Pi Durable.
-- [muellerberndt/cadence](https://github.com/muellerberndt/cadence) - A brain that learns from live experience. System 1 by default: perception, memory, plasticity and action. Optional System 2 for self-observation and slow corrections.
-- [osolmaz/switch](https://github.com/osolmaz/switch) - A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the model picks one at a time until it can answer.

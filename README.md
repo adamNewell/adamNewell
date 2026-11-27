@@ -57,8 +57,8 @@
 
 ### ⭐ Recent Stars
 
+- [IST-DASLab/GSQ-RCO-eval](https://github.com/IST-DASLab/GSQ-RCO-eval) - Evaluation guide for GSQ-RCO models on GPQA-Diamond, AIME25, and LiveCodeBench v6 using vLLM or llama.cpp.
 - [Factory-AI/eslint-plugin](https://github.com/Factory-AI/eslint-plugin) - Factory&#39;s custom linters
 - [fxgl/steamac](https://github.com/fxgl/steamac) - Valve&#39;s official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun &#43; Venus &#43; MoltenVK, controllers, CoreAudio sound
 - [awslabs/codekb](https://github.com/awslabs/codekb) - Code understanding across every repository, for people and agents
 - [mattzcarey/everystate](https://github.com/mattzcarey/everystate) - lightening fast, formal verification engine
-- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.
